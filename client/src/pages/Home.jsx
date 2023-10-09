@@ -12,7 +12,7 @@ import {
 
 const Home = () => {
   return (
-    <div>HOME</div>
+    <div>HOMEE</div>
   )
 }
 
